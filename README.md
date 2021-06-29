@@ -1,4 +1,4 @@
-# Desafio: Situacion Mundial
+# Desafio: Covid 19 - Hito 1: Situacion Mundial
 
 ### Módulo 4
 ### Desarrollo de aplicaciones web Frontend
